@@ -1,1 +1,2 @@
-# Project_6_Stocks
+# Stocks Front-end basic UI.
+UI of share details.
